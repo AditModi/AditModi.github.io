@@ -62,7 +62,7 @@ roles:
    description: • Solution building includes developing cloud infrastructure automation, cloud native applications, documentation, architecture diagrams, monitoring & support, operating manuals etc. ( Worked on Terraform and CI/CD Pipelines with AWS and Azure ) .
                 • Maintain 24/7 up-time of demo-ready solutions in the cloud environment( Both AWS and Azure Environment) .
                 • to build specific cloud-native solutions for targeted business problems and Improve the solution design and implementation by iterating and incorporate inputs .
- - title: 
+ - title: Cloud Engineer Intern
    start: 2021
    end: 2021
    employer: 
@@ -86,7 +86,8 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Technology (B.Tech)
-   date: 2021
+   start: 2017
+   end: 2021
    subject: Computer Science
    school: Dharmsinh Desai University
 
