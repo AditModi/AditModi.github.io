@@ -38,33 +38,33 @@ skills:
 #Work experience is required
 roles:
  - title: AWS Community Builder
-   start: 1-10-2021
+   start: 2021
    end: Ongoing
    employer: Amazon Web Services
    description: The AWS Community Builders program offers technical resources, mentorship, and networking opportunities to AWS enthusiasts and emerging thought leaders who are passionate about sharing knowledge and connecting with the technical community.
                 My interest is primarily on AWS Storage . I'll be creating content to share with the wider tech community on making the most out of AWS services as a Cloud Engineer.
  - title: AWS Educate Cloud Ambassador
-   start: 1-5-2020
-   end: 1-5-2021
+   start: 2020
+   end: 2021
    employer: Amazon Web Services
    description:  • The AWS Educate Student Ambassador Program gives AWS Educate student members recognition, access to career development opportunities, and other benefits for helping their peers learn about Amazon Web Services.
                  • Building the AWS (India Region ) Cloud Community that hosts sessions and activities that deepen and equip scholars with AWS Cloud Computing skills and Big Data competencies.
                  • I have led a team of 15 students to complete the 12 AWS Cloud Career Pathway Certifications and 3 start-ups to secure the AWS Activate Credits, providing them with low cost, easy to use infrastructure for growth and scalability. 
  - title: 
-   start: 1-5-2021
+   start: 2021
    end: Ongoing
    employer: Digital-alpha
    description: 
  - title: Cloud Engineer Intern
-   start: 1-9-2020
-   end: 31-4-2021
+   start: 2020
+   end: 2021
    employer: Digital-Alpha
    description: • Solution building includes developing cloud infrastructure automation, cloud native applications, documentation, architecture diagrams, monitoring & support, operating manuals etc. ( Worked on Terraform and CI/CD Pipelines with AWS and Azure ) .
                 • Maintain 24/7 up-time of demo-ready solutions in the cloud environment( Both AWS and Azure Environment) .
                 • to build specific cloud-native solutions for targeted business problems and Improve the solution design and implementation by iterating and incorporate inputs .
  - title: 
-   start: 3-1-2021
-   end: 1-5-2021
+   start: 2021
+   end: 2021
    employer: 
    description: • Involved in Designing applications for Development , Monitoring developed applications and fixing bugs.
                 • AWS - (EC2, RDS, S3, Route53, VPC, Security Groups, AMI, Cloud Formation, Cloud Front, Cloud Watch, Elastic Beanstalk, IAM, ECS and EKS ).
@@ -75,8 +75,8 @@ roles:
                 • Database technologies - MongoDB, Mysql, SQl
                 • Domain and SSL expertise - Godaddy, Google domain , Ionos , certbot and bitnami.
  - title: Software Engineer Intern
-   start: 25-4-2020
-   end: 4-6-2020
+   start: 2020
+   end: 2020
    employer: AtliQ Technologies 
    description: • Work under the guidance of leads to build specific cloud-native solutions for targeted business
                 problems (Migrating Data from on-premise to Cloud Environment) .
@@ -86,34 +86,15 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Technology (B.Tech)
-   date: 2017-2021
+   date: 2021
    subject: Computer Science
    school: Dharmsinh Desai University
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
