@@ -65,7 +65,7 @@ roles:
  - title: Cloud Engineer Intern
    start: 2021
    end: 2021
-   employer: 
+   employer: Adrixus Tech Studio
    description: • Involved in Designing applications for Development , Monitoring developed applications and fixing bugs.
                 • AWS - (EC2, RDS, S3, Route53, VPC, Security Groups, AMI, Cloud Formation, Cloud Front, Cloud Watch, Elastic Beanstalk, IAM, ECS and EKS ).
                 • Server and associated technologies - Linux or Ubuntu .
@@ -86,8 +86,7 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Technology (B.Tech)
-   start: 2017
-   end: 2021
+   date: 2021
    subject: Computer Science
    school: Dharmsinh Desai University
 
